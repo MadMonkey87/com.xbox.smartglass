@@ -26,6 +26,7 @@
     "large": "/drivers/xbox-console/assets/images/large.png",
     "small": "/drivers/xbox-console/assets/images/small.png"
   },
+  "icon": "{{driverAssetsPath}}/nexus.svg",
   "settings": [
     {
       "type": "group",

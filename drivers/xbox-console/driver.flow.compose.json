@@ -72,6 +72,9 @@
         "en": "Triggers when the console is turned on",
         "nl": "Triggers als de console aangaat"
       },
+      "titleFormatted": {
+        "en": "When [[console]] has turned on"
+      },
       "args": [
         {
           "name": "console",
@@ -89,6 +92,9 @@
       "hint": {
         "en": "Triggers when the console is turned off",
         "nl": "Triggers als de console uitgaat"
+      },
+      "titleFormatted": {
+        "en": "When [[console]] has turned off"
       },
       "args": [
         {
@@ -109,6 +115,9 @@
       "hint": {
         "en": "Send a controller button to your console",
         "nl": "Stuur een controller knop naar je console"
+      },
+      "titleFormatted": {
+        "en": "Push [[controller_button]]"
       },
       "args": [
         {
@@ -144,6 +153,9 @@
         "en": "Send a media button to your console",
         "nl": "Stuur een media knop naar je console"
       },
+      "titleFormatted": {
+        "en": "Send [[media_button]]"
+      },
       "args": [
         {
           "type": "dropdown",
@@ -172,6 +184,9 @@
       "hint": {
         "en": "Launches an app on your console",
         "nl": "Start een app"
+      },
+      "titleFormatted": {
+        "en": "Launch [[app_name]]"
       },
       "args": [
         {
